@@ -2,7 +2,7 @@
 
 /**
  * Module dependencies.
- */
+ */ 
 var _ = require('lodash'),
   chalk = require('chalk'),
   glob = require('glob'),
